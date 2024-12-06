@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust: accessing an array element outside of its valid index range.  The `bug.rs` file shows the erroneous code, while `bugSolution.rs` provides a corrected version.  This example highlights the importance of robust array index checks to prevent runtime panics.
